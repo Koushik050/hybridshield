@@ -6,6 +6,8 @@ Support agents, clinic staff and HR teams paste names, phone numbers, emails and
 
 Built for **#BuildHybridAI 2026** with **Firebase AI Logic hybrid inference** (Web / Chrome).
 
+**Live demo:** https://hybrid-ai-hackathon-af989.web.app (desktop Chrome; turn on Gemini Nano as described below to see on-device detection — without it the app uses pattern rules and the cloud)
+
 ## How it works
 
 | Step | Where | What happens |
